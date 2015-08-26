@@ -1,11 +1,11 @@
 var Jed = require('jed');
 
 var localeData = {
-  frontend: {
+  messages: {
     '': {
       domain: 'messages',
-      'lang': 'en',
-      'plural_forms': 'nplurals=2; plural=(n != 1);'
+      lang: 'en',
+      plural_forms: 'nplurals=2; plural=(n != 1);'
     }
   }
 };
