@@ -12,5 +12,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alan Shaw",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tableflip/i18n-stub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tableflip/i18n-stub/issues"
+  },
+  "homepage": "https://github.com/tableflip/i18n-stub#readme"
 }
